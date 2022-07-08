@@ -4,7 +4,7 @@ import random
 #import translation
 
 
-
+#comment here
 first = int(sys.argv[1])
 second = int(sys.argv[2])
 
